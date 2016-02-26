@@ -1,2 +1,4 @@
 # hello-world
-This is a trial repository to store some ideas.
+
+Hi, there
+How are you doing!
